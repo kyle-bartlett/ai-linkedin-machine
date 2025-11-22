@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Quant-Trim in Practice: Improved Cross-Platform Low-Bit Deployment on Edge NPUs",
+  "url": "https://arxiv.org/abs/2511.15300",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15300v2 Announce Type: replace \nAbstract: Specialized edge accelerators rely on low-bit quantization, but vendor compilers differ in scaling, clipping, and kernel support, often as black boxes. The same floating-point (FP) checkpoint can therefore yield inconsistent accuracy across backends, forcing practitioners to tweak flags or refactor models to vendor-friendly operator subsets. We introduce Quant-Trim, a training-phase method that produces a hardware-neutral checkpoint robust to backend and precision choices. It combines progressive fake quantization to align training with the deployed integer grid and reverse pruning to tame outlier-driven scale inflation while preserving learnability. Quant-Trim is agnostic to quantization schemes (symmetric/asymmetric, per-tensor/per-channel, INT8/INT4) and requires no vendor-specific graph changes. Across models and tasks, it narrows the FP-to-low-bit gap, reduces dependence on compiler heuristics/calibration, and avoids per-backend retraining. We report accuracy and edge metrics latency, throughput, energy per inference, and cost under static/dynamic activation scaling and varying operator coverage.",
+  "ingested_at": "2025-11-21 05:43:50.697682"
+}

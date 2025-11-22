@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Box6D : Zero-shot Category-level 6D Pose Estimation of Warehouse Boxes",
+  "url": "https://arxiv.org/abs/2511.15884",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15884v1 Announce Type: cross \nAbstract: Accurate and efficient 6D pose estimation of novel objects under clutter and occlusion is critical for robotic manipulation across warehouse automation, bin picking, logistics, and e-commerce fulfillment. There are three main approaches in this domain; Model-based methods assume an exact CAD model at inference but require high-resolution meshes and transfer poorly to new environments; Model-free methods that rely on a few reference images or videos are more flexible, however often fail under challenging conditions; Category-level approaches aim to balance flexibility and accuracy but many are overly general and ignore environment and object priors, limiting their practicality in industrial settings.\n  To this end, we propose Box6d, a category-level 6D pose estimation method tailored for storage boxes in the warehouse context. From a single RGB-D observation, Box6D infers the dimensions of the boxes via a fast binary search and estimates poses using a category CAD template rather than instance-specific models. Suing a depth-based plausibility filter and early-stopping strategy, Box6D then rejects implausible hypotheses, lowering computational cost. We conduct evaluations on real-world storage scenarios and public benchmarks, and show that our approach delivers competitive or superior 6D pose precision while reducing inference time by approximately 76%.",
+  "ingested_at": "2025-11-21 05:43:50.687894"
+}

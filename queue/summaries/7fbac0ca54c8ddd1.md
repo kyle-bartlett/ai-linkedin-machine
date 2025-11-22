@@ -1,0 +1,1 @@
+Great! Please provide the details or content of the two team updates you'd like to share, and I can help you draft or format them.

@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Toward understanding and preventing misalignment generalization",
+  "url": "https://openai.com/index/emergent-misalignment",
+  "published": "Wed, 18 Jun 2025 10:00:00 GMT",
+  "summary_raw": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior\u2014one that can be reversed with minimal fine-tuning.",
+  "ingested_at": "2025-11-21 05:43:48.519577"
+}

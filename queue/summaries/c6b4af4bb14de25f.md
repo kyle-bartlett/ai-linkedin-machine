@@ -1,0 +1,3 @@
+That sounds like an incredible initiative! The Nonprofit Jam, hosted by the OpenAI Academy in partnership with the Walton Family Foundation, Emerson Collective, and local nonprofits, is a fantastic way to empower nonprofit leaders nationwide. Bringing together over 1,000 leaders across 10 locations for a one-day event will undoubtedly foster collaboration, innovation, and new solutions to support communities.
+
+If you need help with anything related to the event—such as planning, outreach, content development, or technology tools—feel free to ask!

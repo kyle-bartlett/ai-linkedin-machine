@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking",
+  "url": "https://arxiv.org/abs/2501.09751",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2501.09751v5 Announce Type: replace-cross \nAbstract: Machine writing with large language models often relies on retrieval-augmented generation. However, these approaches remain confined within the boundaries of the model's predefined scope, limiting the generation of content with rich information. Specifically, vanilla-retrieved information tends to lack depth, novelty, and suffers from redundancy, which negatively impacts the quality of generated articles, leading to shallow, unoriginal, and repetitive outputs. To address these issues, we propose OmniThink, a slow-thinking machine writing framework that emulates the human-like process of iterative expansion and reflection. The core idea behind OmniThink is to simulate the cognitive behavior of learners as they slowly deepen their knowledge of the topics. Experimental results demonstrate that OmniThink improves the knowledge density of generated articles without compromising metrics such as coherence and depth. Human evaluations and expert feedback further highlight the potential of OmniThink to address real-world challenges in the generation of long-form articles. Code is available at https://github.com/zjunlp/OmniThink.",
+  "ingested_at": "2025-11-21 05:43:50.699066"
+}

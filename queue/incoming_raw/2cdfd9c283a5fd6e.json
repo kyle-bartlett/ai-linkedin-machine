@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Robots that learn",
+  "url": "https://openai.com/index/robots-that-learn",
+  "published": "Tue, 16 May 2017 07:00:00 GMT",
+  "summary_raw": "We\u2019ve created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once.",
+  "ingested_at": "2025-11-21 05:43:48.582253"
+}

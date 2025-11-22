@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Approximation rates of quantum neural networks for periodic functions via Jackson's inequality",
+  "url": "https://arxiv.org/abs/2511.16149",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16149v1 Announce Type: cross \nAbstract: Quantum neural networks (QNNs) are an analog of classical neural networks in the world of quantum computing, which are represented by a unitary matrix with trainable parameters. Inspired by the universal approximation property of classical neural networks, ensuring that every continuous function can be arbitrarily well approximated uniformly on a compact set of a Euclidean space, some recent works have established analogous results for QNNs, ranging from single-qubit to multi-qubit QNNs, and even hybrid classical-quantum models. In this paper, we study the approximation capabilities of QNNs for periodic functions with respect to the supremum norm. We use the Jackson inequality to approximate a given function by implementing its approximating trigonometric polynomial via a suitable QNN. In particular, we see that by restricting to the class of periodic functions, one can achieve a quadratic reduction of the number of parameters, producing better approximation results than in the literature. Moreover, the smoother the function, the fewer parameters are needed to construct a QNN to approximate the function.",
+  "ingested_at": "2025-11-21 05:43:50.689015"
+}

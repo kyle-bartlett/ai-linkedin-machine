@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Learning from human preferences",
+  "url": "https://openai.com/index/learning-from-human-preferences",
+  "published": "Tue, 13 Jun 2017 07:00:00 GMT",
+  "summary_raw": "One step towards building safe AI systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even dangerous behavior. In collaboration with DeepMind\u2019s safety team, we\u2019ve developed an algorithm which can infer what humans want by being told which of two proposed behaviors is better.",
+  "ingested_at": "2025-11-21 05:43:48.581833"
+}

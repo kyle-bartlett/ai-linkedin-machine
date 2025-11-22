@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Re-optimization of a deep neural network model for electron-carbon scattering using new experimental data",
+  "url": "https://arxiv.org/abs/2508.00996",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2508.00996v2 Announce Type: replace-cross \nAbstract: We present an updated deep neural network model for inclusive electron-carbon scattering. Using the bootstrap model [Phys.Rev.C 110 (2024) 2, 025501] as a prior, we incorporate recent experimental data, as well as older measurements in the deep inelastic scattering region, to derive a re-optimized posterior model. We examine the impact of these new inputs on model predictions and associated uncertainties. Finally, we evaluate the resulting cross-section predictions in the kinematic range relevant to the Hyper-Kamiokande and DUNE experiments.",
+  "ingested_at": "2025-11-21 05:43:50.701650"
+}

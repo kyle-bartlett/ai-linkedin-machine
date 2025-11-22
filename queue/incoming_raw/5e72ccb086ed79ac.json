@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Distance-Preserving Representations for Genomic Spatial Reconstruction",
+  "url": "https://arxiv.org/abs/2408.00911",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2408.00911v3 Announce Type: replace \nAbstract: The spatial context of single-cell gene expression data is crucial for many downstream analyses, yet often remains inaccessible due to practical and technical limitations, restricting the utility of such datasets. In this paper, we propose a generic representation learning and transfer learning framework dp-VAE, capable of reconstructing the spatial coordinates associated with the provided gene expression data. Central to our approach is a distance-preserving regularizer integrated into the loss function during training, ensuring the model effectively captures and utilizes spatial context signals from reference datasets. During the inference stage, the produced latent representation of the model can be used to reconstruct or impute the spatial context of the provided gene expression by solving a constrained optimization problem. We also explore the theoretical connections between distance-preserving loss, distortion, and the bi-Lipschitz condition within generative models. Finally, we demonstrate the effectiveness of dp-VAE in different tasks involving training robustness, out-of-sample evaluation, and transfer learning inference applications by testing it over 27 publicly available datasets. This underscores its applicability to a wide range of genomics studies that were previously hindered by the absence of spatial data.",
+  "ingested_at": "2025-11-21 05:43:50.693235"
+}

@@ -1,0 +1,1 @@
+I don’t have a specific conversation with Jai Malkani, Head of AI and Product, Customer Obsession at Uber, in my training data. However, I can help you draft questions you might ask him or create a fictional conversation based on his role and expertise. Would you like me to do that?

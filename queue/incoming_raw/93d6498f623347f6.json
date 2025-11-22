@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Multimodal neurons in artificial neural networks",
+  "url": "https://openai.com/index/multimodal-neurons",
+  "published": "Thu, 04 Mar 2021 08:00:00 GMT",
+  "summary_raw": "We\u2019ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP\u2019s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn.",
+  "ingested_at": "2025-11-21 05:43:48.567604"
+}

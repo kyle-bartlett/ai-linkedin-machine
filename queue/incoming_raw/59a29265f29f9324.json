@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Adaptive Guided Upsampling for Low-light Image Enhancement",
+  "url": "https://arxiv.org/abs/2511.16623",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16623v1 Announce Type: cross \nAbstract: We introduce Adaptive Guided Upsampling (AGU), an efficient method for upscaling low-light images capable of optimizing multiple image quality characteristics at the same time, such as reducing noise and increasing sharpness. It is based on a guided image method, which transfers image characteristics from a guidance image to the target image. Using state-of-the-art guided methods, low-light images lack sufficient characteristics for this purpose due to their high noise level and low brightness, rendering suboptimal/not significantly improved images in the process. We solve this problem with multi-parameter optimization, learning the association between multiple low-light and bright image characteristics. Our proposed machine learning method learns these characteristics from a few sample images-pairs. AGU can render high-quality images in real time using low-quality, low-resolution input; our experiments demonstrate that it is superior to state-of-the-art methods in the addressed low-light use case.",
+  "ingested_at": "2025-11-21 05:43:50.692006"
+}

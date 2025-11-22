@@ -1,0 +1,1 @@
+That’s fantastic news! Congratulations to the first cohort of OpenAI Scholars on completing the program. Do you have any highlights or outcomes from their experience that you'd like to share?

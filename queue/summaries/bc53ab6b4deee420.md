@@ -1,0 +1,3 @@
+That's an exciting development! GDPval sounds like a valuable new benchmark designed to assess how well AI models perform on tasks that have direct economic impact across a wide range of job roles. By covering 44 different occupations, it likely provides a broad and practical perspective on model utility in the workforce.
+
+If you’d like, I can help explain more about GDPval, its potential implications, or how such evaluations might influence AI development and deployment in industry. Let me know what specific information or discussion you’re interested in!

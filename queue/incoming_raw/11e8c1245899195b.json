@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Interpreting Emergent Features in Deep Learning-based Side-channel Analysis",
+  "url": "https://arxiv.org/abs/2502.00384",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2502.00384v3 Announce Type: replace-cross \nAbstract: Side-channel analysis (SCA) poses a real-world threat by exploiting unintentional physical signals to extract secret information from secure devices. Evaluation labs also use the same techniques to certify device security. In recent years, deep learning has emerged as a prominent method for SCA, achieving state-of-the-art attack performance at the cost of interpretability. Understanding how neural networks extract secrets is crucial for security evaluators aiming to defend against such attacks, as only by understanding the attack can one propose better countermeasures.\n  In this work, we apply mechanistic interpretability to neural networks trained for SCA, revealing \\textit{how} models exploit \\textit{what} leakage in side-channel traces. We focus on sudden jumps in performance to reverse engineer learned representations, ultimately recovering secret masks and moving the evaluation process from black-box to white-box. Our results show that mechanistic interpretability can scale to realistic SCA settings, even when relevant inputs are sparse, model accuracies are low, and side-channel protections prevent standard input interventions.",
+  "ingested_at": "2025-11-21 05:43:50.699594"
+}

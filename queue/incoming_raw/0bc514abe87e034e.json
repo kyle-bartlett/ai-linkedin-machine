@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Graph Diffusion Counterfactual Explanation",
+  "url": "https://arxiv.org/abs/2511.16287",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16287v1 Announce Type: new \nAbstract: Machine learning models that operate on graph-structured data, such as molecular graphs or social networks, often make accurate predictions but offer little insight into why certain predictions are made. Counterfactual explanations address this challenge by seeking the closest alternative scenario where the model's prediction would change. Although counterfactual explanations are extensively studied in tabular data and computer vision, the graph domain remains comparatively underexplored. Constructing graph counterfactuals is intrinsically difficult because graphs are discrete and non-euclidean objects. We introduce Graph Diffusion Counterfactual Explanation, a novel framework for generating counterfactual explanations on graph data, combining discrete diffusion models and classifier-free guidance. We empirically demonstrate that our method reliably generates in-distribution as well as minimally structurally different counterfactuals for both discrete classification targets and continuous properties.",
+  "ingested_at": "2025-11-21 05:43:50.683432"
+}

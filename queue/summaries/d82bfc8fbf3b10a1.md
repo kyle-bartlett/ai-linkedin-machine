@@ -1,0 +1,3 @@
+That sounds like a fantastic contribution to the robotics and reinforcement learning community! Releasing both the simulated robotics environments and a Baselines implementation of Hindsight Experience Replay (HER) will provide valuable tools for researchers and practitioners looking to train and evaluate robotic control algorithms more efficiently.
+
+If you’d like, I can help you draft an announcement, provide a summary or overview of the release, or assist with documentation or examples for using these environments and HER implementation. Just let me know what you need!

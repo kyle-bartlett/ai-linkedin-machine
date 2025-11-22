@@ -1,0 +1,4 @@
+GitHub has introduced enhanced authentication capabilities for GitHub Copilot plugins in JetBrains, Eclipse, and Xcode. These improvements support a broader range of third-party OAuth providers by implementing a secure and flexible approach using Dynamic Client Registration. This update aims to make authentication smoother and more secure for developers using Copilot across these popular IDEs.
+
+You can read more about this update in the official announcement:  
+[Enhanced MCP OAuth support for GitHub Copilot in JetBrains, Eclipse, and Xcode](https://github.blog/changelog/2025-11-18-enhanced-mcp-oauth-support-for-github-copilot-in-jetbrains-eclipse-and-xcode)

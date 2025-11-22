@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Attacking machine learning with adversarial examples",
+  "url": "https://openai.com/index/attacking-machine-learning-with-adversarial-examples",
+  "published": "Fri, 24 Feb 2017 08:00:00 GMT",
+  "summary_raw": "Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they\u2019re like optical illusions for machines. In this post we\u2019ll show how adversarial examples work across different mediums, and will discuss why securing systems against them can be difficult.",
+  "ingested_at": "2025-11-21 05:43:48.583622"
+}

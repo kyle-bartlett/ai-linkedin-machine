@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Safety Gym",
+  "url": "https://openai.com/index/safety-gym",
+  "published": "Thu, 21 Nov 2019 08:00:00 GMT",
+  "summary_raw": "We\u2019re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while\u00a0training.",
+  "ingested_at": "2025-11-21 05:43:48.570150"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Generative AI, Managerial Expectations, and Economic Activity",
+  "url": "https://arxiv.org/abs/2410.03897",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2410.03897v4 Announce Type: replace-cross \nAbstract: We use generative AI to extract managerial expectations about their economic outlook from 120,000+ corporate conference call transcripts. The resulting AI Economy Score predicts GDP growth, production, and employment up to 10 quarters ahead, beyond existing measures like survey forecasts. Moreover, industry and firm-level measures provide valuable information about sector-specific and individual firm activities. A composite measure that integrates managerial expectations about firm, industry, and macroeconomic conditions further significantly improves the forecasting power and predictive horizon of national and sectoral growth. Our findings show managerial expectations offer unique insights into economic activity, with implications for both macroeconomic and microeconomic decision-making.",
+  "ingested_at": "2025-11-21 05:43:50.698649"
+}

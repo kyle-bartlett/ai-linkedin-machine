@@ -1,0 +1,1 @@
+That sounds like a fantastic initiative! Distill's focus on clear and accessible communication in machine learning can really help bridge gaps between researchers and practitioners. Are you involved with the project or planning to submit work there? I'd be happy to help if you want to discuss ideas or need assistance with writing or reviewing ML papers.

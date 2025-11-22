@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Fine-tuning GPT-2 from human preferences",
+  "url": "https://openai.com/index/fine-tuning-gpt-2",
+  "published": "Thu, 19 Sep 2019 07:00:00 GMT",
+  "summary_raw": "We\u2019ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we\u2019d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required only 5k. Our motivation is to move safety techniques closer to the general task of \u201cmachines talking to humans,\u201d which we believe is key to extracting information about human\u00a0values.",
+  "ingested_at": "2025-11-21 05:43:48.570586"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise",
+  "url": "https://arxiv.org/abs/2409.19546",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2409.19546v5 Announce Type: replace \nAbstract: Stochastic approximation is a powerful class of algorithms with celebrated success. However, a large body of previous analysis focuses on stochastic approximations driven by contractive operators, which is not applicable in some important reinforcement learning settings like the average reward setting. This work instead investigates stochastic approximations with merely nonexpansive operators. In particular, we study nonexpansive stochastic approximations with Markovian noise, providing both asymptotic and finite sample analysis. Key to our analysis are novel bounds of noise terms resulting from the Poisson equation. As an application, we prove for the first time that classical tabular average reward temporal difference learning converges to a sample-path dependent fixed point.",
+  "ingested_at": "2025-11-21 05:43:50.693353"
+}

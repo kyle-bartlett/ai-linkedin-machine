@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness",
+  "url": "https://arxiv.org/abs/2506.01913",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2506.01913v2 Announce Type: replace \nAbstract: This work introduces a hybrid non-Euclidean optimization method which generalizes gradient norm clipping by combining steepest descent and conditional gradient approaches. The method achieves the best of both worlds by establishing a descent property under a generalized notion of ($L_0$,$L_1$)-smoothness. Weight decay is incorporated in a principled manner by identifying a connection to the Frank-Wolfe short step. In the stochastic case, we show an order optimal $O(n^{-1/4})$ convergence rate by leveraging a momentum based gradient estimator. We discuss how to instantiate the algorithms for deep learning, which we dub Clipped Scion, and demonstrate their properties on image classification and language modeling. The code is available at https://github.com/LIONS-EPFL/ClippedScion.",
+  "ingested_at": "2025-11-21 05:43:50.694378"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Generative modeling with sparse transformers",
+  "url": "https://openai.com/index/sparse-transformer",
+  "published": "Tue, 23 Apr 2019 07:00:00 GMT",
+  "summary_raw": "We\u2019ve developed the Sparse Transformer, a deep neural network which sets new records at predicting what comes next in a sequence\u2014whether text, images, or sound. It uses an algorithmic improvement of the\u00a0attention\u00a0mechanism to extract patterns from sequences 30x longer than possible\u00a0previously.",
+  "ingested_at": "2025-11-21 05:43:48.571951"
+}

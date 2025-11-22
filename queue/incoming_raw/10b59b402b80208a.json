@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Introducing SWE-bench Verified",
+  "url": "https://openai.com/index/introducing-swe-bench-verified",
+  "published": "Tue, 13 Aug 2024 10:00:00 GMT",
+  "summary_raw": "We\u2019re releasing a human-validated subset of SWE-bench that more reliably evaluates AI models\u2019 ability to solve real-world software issues.",
+  "ingested_at": "2025-11-21 05:43:48.542179"
+}

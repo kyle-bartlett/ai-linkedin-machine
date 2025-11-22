@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Achieving Skilled and Reliable Daily Probabilistic Forecasts of Wind Power at Subseasonal-to-Seasonal Timescales over France",
+  "url": "https://arxiv.org/abs/2511.16164",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16164v1 Announce Type: new \nAbstract: Accurate and reliable wind power forecasts are crucial for grid stability, balancing supply and demand, and market risk management. Even though short-term weather forecasts have been thoroughly used to provide short-term renewable power predictions, forecasts involving longer prediction horizons still need investigations. Despite the recent progress in subseasonal-to-seasonal weather probabilistic forecasting, their use for wind power prediction usually involves both temporal and spatial aggregation achieve reasonable skill. In this study, we present a forecasting pipeline enabling to transform ECMWF subseasonal-to-seasonal weather forecasts into wind power forecasts for lead times ranging from 1 day to 46 days at daily resolution. This framework also include post-processing of the resulting power ensembles to account for the biases and lack of dispersion of the weather forecasts. We show that our method is able to outperform a climatological baseline by 50 % in terms of both Continuous Ranked Probability Skill Score and Ensemble Mean Squared Error while also providing near perfect calibration of the forecasts for lead times ranging from 15 to 46 days.",
+  "ingested_at": "2025-11-21 05:43:50.681857"
+}

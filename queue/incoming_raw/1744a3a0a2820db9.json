@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Complex variational autoencoders admit K\\\"ahler structure",
+  "url": "https://arxiv.org/abs/2511.15172",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15172v2 Announce Type: replace \nAbstract: It has been discovered that latent-Euclidean variational autoencoders (VAEs) admit, in various capacities, Riemannian structure. We adapt these arguments but for complex VAEs with a complex latent stage. We show that complex VAEs reveal to some level K\\\"ahler geometric structure. Our methods will be tailored for decoder geometry. We derive the Fisher information metric in the complex case under a latent complex Gaussian regularization with trivial relation matrix. It is well known from statistical information theory that the Fisher information coincides with the Hessian of the Kullback-Leibler (KL) divergence. Thus, the metric K\\\"ahler potential relation is exactly achieved under relative entropy. We propose a K\\\"ahler potential derivative of complex Gaussian mixtures that has rough equivalence to the Fisher information metric while still being faithful to the underlying K\\\"ahler geometry. Computation of the metric via this potential is efficient, and through our potential, valid as a plurisubharmonic (PSH) function, large scale computational burden of automatic differentiation is displaced to small scale. We show that we can regularize the latent space with decoder geometry, and that we can sample in accordance with a weighted complex volume element. We demonstrate these strategies, at the exchange of sample variation, yield consistently smoother representations and fewer semantic outliers.",
+  "ingested_at": "2025-11-21 05:43:50.697575"
+}

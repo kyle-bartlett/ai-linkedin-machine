@@ -1,0 +1,1 @@
+That sounds like an exciting event! The first OpenAI Robotics Symposium on April 27, 2019, must have been a great opportunity to bring together researchers and practitioners interested in robotics and AI. If you'd like, I can help you with a summary, highlights, or any other information related to the symposium. What would you like to do next?

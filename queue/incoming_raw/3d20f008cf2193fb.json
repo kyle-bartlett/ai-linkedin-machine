@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "From Polynomials to Databases: Arithmetic Structures in Galois Theory",
+  "url": "https://arxiv.org/abs/2511.16622",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16622v1 Announce Type: cross \nAbstract: We develop a computational framework for classifying Galois groups of irreducible degree-7 polynomials over~$\\mathbb{Q}$, combining explicit resolvent methods with machine learning techniques. A database of over one million normalized projective septics is constructed, each annotated with algebraic invariants~$J_0, \\dots, J_4$ derived from binary transvections. For each polynomial, we compute resolvent factorizations to determine its Galois group among the seven transitive subgroups of~$S_7$ identified by Foulkes. Using this dataset, we train a neurosymbolic classifier that integrates invariant-theoretic features with supervised learning, yielding improved accuracy in detecting rare solvable groups compared to coefficient-based models. The resulting database provides a reproducible resource for constructive Galois theory and supports empirical investigations into group distribution under height constraints. The methodology extends to higher-degree cases and illustrates the utility of hybrid symbolic-numeric techniques in computational algebra.",
+  "ingested_at": "2025-11-21 05:43:50.691897"
+}

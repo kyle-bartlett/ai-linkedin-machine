@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "OpenAI Microscope",
+  "url": "https://openai.com/index/microscope",
+  "published": "Tue, 14 Apr 2020 07:00:00 GMT",
+  "summary_raw": "We\u2019re introducing\u00a0OpenAI Microscope, a collection of visualizations of every significant layer and neuron of eight vision \u201cmodel organisms\u201d which are often studied in interpretability. Microscope makes it easier to analyze the features that form inside these neural networks, and we hope it will help the research community as we move towards understanding these complicated\u00a0systems.",
+  "ingested_at": "2025-11-21 05:43:48.569390"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Detecting and reducing scheming in AI models",
+  "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+  "published": "Wed, 17 Sep 2025 00:00:00 GMT",
+  "summary_raw": "Apollo Research and OpenAI developed evaluations for hidden misalignment (\u201cscheming\u201d) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
+  "ingested_at": "2025-11-21 05:43:48.511164"
+}

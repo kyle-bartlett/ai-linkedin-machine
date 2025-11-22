@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Introducing Structured Outputs in the API",
+  "url": "https://openai.com/index/introducing-structured-outputs-in-the-api",
+  "published": "Tue, 06 Aug 2024 10:00:00 GMT",
+  "summary_raw": "We are introducing Structured Outputs in the API\u2014model outputs now reliably adhere to developer-supplied JSON Schemas.",
+  "ingested_at": "2025-11-21 05:43:48.542832"
+}

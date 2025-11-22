@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "An Interpretability-Guided Framework for Responsible Synthetic Data Generation in Emotional Text",
+  "url": "https://arxiv.org/abs/2511.16132",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16132v1 Announce Type: new \nAbstract: Emotion recognition from social media is critical for understanding public sentiment, but accessing training data has become prohibitively expensive due to escalating API costs and platform restrictions. We introduce an interpretability-guided framework where Shapley Additive Explanations (SHAP) provide principled guidance for LLM-based synthetic data generation. With sufficient seed data, SHAP-guided approach matches real data performance, significantly outperforms na\\\"ive generation, and substantially improves classification for underrepresented emotion classes. However, our linguistic analysis reveals that synthetic text exhibits reduced vocabulary richness and fewer personal or temporally complex expressions than authentic posts. This work provides both a practical framework for responsible synthetic data generation and a critical perspective on its limitations, underscoring that the future of trustworthy AI depends on navigating the trade-offs between synthetic utility and real-world authenticity.",
+  "ingested_at": "2025-11-21 05:43:50.681499"
+}

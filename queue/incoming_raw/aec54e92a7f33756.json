@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "From hard refusals to safe-completions: toward output-centric safety training",
+  "url": "https://openai.com/index/gpt-5-safe-completions",
+  "published": "Thu, 07 Aug 2025 00:00:00 GMT",
+  "summary_raw": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses\u2014moving beyond hard refusals to nuanced, output-centric safety training for handling dual-use prompts.",
+  "ingested_at": "2025-11-21 05:43:48.515389"
+}

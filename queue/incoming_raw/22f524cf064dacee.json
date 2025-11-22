@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Learning to model other minds",
+  "url": "https://openai.com/index/learning-to-model-other-minds",
+  "published": "Thu, 14 Sep 2017 07:00:00 GMT",
+  "summary_raw": "We\u2019re releasing an algorithm which accounts for the fact that other agents are learning too, and discovers self-interested yet collaborative strategies like tit-for-tat in the iterated prisoner\u2019s dilemma. This algorithm, Learning with Opponent-Learning Awareness (LOLA), is a small step towards agents that model other minds.",
+  "ingested_at": "2025-11-21 05:43:48.580561"
+}

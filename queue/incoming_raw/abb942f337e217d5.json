@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Introducing Codex",
+  "url": "https://openai.com/index/introducing-codex",
+  "published": "Fri, 16 May 2025 08:00:00 GMT",
+  "summary_raw": "Introducing Codex: a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1. With Codex, developers can simultaneously deploy multiple agents to independently handle coding tasks such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review.",
+  "ingested_at": "2025-11-21 05:43:48.521206"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Introducing SimpleQA",
+  "url": "https://openai.com/index/introducing-simpleqa",
+  "published": "Wed, 30 Oct 2024 10:00:00 GMT",
+  "summary_raw": "A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.",
+  "ingested_at": "2025-11-21 05:43:48.536197"
+}

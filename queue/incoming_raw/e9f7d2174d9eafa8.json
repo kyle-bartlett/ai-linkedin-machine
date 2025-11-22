@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "OpenAI Baselines: DQN",
+  "url": "https://openai.com/index/openai-baselines-dqn",
+  "published": "Wed, 24 May 2017 07:00:00 GMT",
+  "summary_raw": "We\u2019re open-sourcing OpenAI Baselines, our internal effort to reproduce reinforcement learning algorithms with performance on par with published results. We\u2019ll release the algorithms over upcoming months; today\u2019s release includes DQN and three of its variants.",
+  "ingested_at": "2025-11-21 05:43:48.582143"
+}

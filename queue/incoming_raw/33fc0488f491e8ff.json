@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Rep-GLS: Report-Guided Generalized Label Smoothing for Robust Disease Detection",
+  "url": "https://arxiv.org/abs/2508.02495",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2508.02495v3 Announce Type: replace \nAbstract: Unlike nature image classification where groundtruth label is explicit and of no doubt, physicians commonly interpret medical image conditioned on certainty like using phrase \"probable\" or \"likely\". Existing medical image datasets either simply overlooked the nuance and polarise into binary label. Here, we propose a novel framework that leverages a Large Language Model (LLM) to directly mine medical reports to utilise the uncertainty relevant expression for supervision signal. At first, we collect uncertainty keywords from medical reports. Then, we use Qwen-3 4B to identify the textual uncertainty and map them into an adaptive Generalized Label Smoothing (GLS) rate. This rate allows our model to treat uncertain labels not as errors, but as informative signals, effectively incorporating expert skepticism into the training process. We establish a new clinical expert uncertainty-aware benchmark to rigorously evaluate this problem. Experiments demonstrate that our approach significantly outperforms state-of-the-art methods in medical disease detection. The curated uncertainty words database, code, and benchmark will be made publicly available upon acceptance.",
+  "ingested_at": "2025-11-21 05:43:50.694932"
+}

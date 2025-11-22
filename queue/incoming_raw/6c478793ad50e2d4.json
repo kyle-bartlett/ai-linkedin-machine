@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "AI-written critiques help humans notice flaws",
+  "url": "https://openai.com/index/critiques",
+  "published": "Mon, 13 Jun 2022 07:00:00 GMT",
+  "summary_raw": "We trained \u201ccritique-writing\u201d models to describe flaws in summaries. Human evaluators find flaws in summaries much more often when shown our model\u2019s critiques. Larger models are better at self-critiquing, with scale improving critique-writing more than summary-writing. This shows promise for using AI systems to assist human supervision of AI systems on difficult\u00a0tasks.",
+  "ingested_at": "2025-11-21 05:43:48.563243"
+}

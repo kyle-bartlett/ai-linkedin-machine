@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "AI and compute",
+  "url": "https://openai.com/index/ai-and-compute",
+  "published": "Wed, 16 May 2018 07:00:00 GMT",
+  "summary_raw": "We\u2019re releasing an analysis showing that since 2012, the amount of compute used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling time (by comparison, Moore\u2019s Law had a 2-year doubling period)[^footnote-correction]. Since 2012, this metric has grown by more than 300,000x (a 2-year doubling period would yield only a 7x increase). Improvements in compute have been a key component of AI progress, so as long as this trend continues, it\u2019s worth preparing for the implications of systems far outside today\u2019s capabilities.",
+  "ingested_at": "2025-11-21 05:43:48.576497"
+}

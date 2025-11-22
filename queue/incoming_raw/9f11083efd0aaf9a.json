@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Improved Techniques for Training Consistency Models",
+  "url": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+  "published": "Thu, 20 Jun 2024 00:00:00 GMT",
+  "summary_raw": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training.",
+  "ingested_at": "2025-11-21 05:43:48.544123"
+}

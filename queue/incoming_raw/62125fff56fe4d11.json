@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Detecting misbehavior in frontier reasoning models",
+  "url": "https://openai.com/index/chain-of-thought-monitoring",
+  "published": "Mon, 10 Mar 2025 10:00:00 GMT",
+  "summary_raw": "Frontier reasoning models exploit loopholes when given the chance. We show we can detect exploits using an LLM to monitor their chains-of-thought. Penalizing their \u201cbad thoughts\u201d doesn\u2019t stop the majority of misbehavior\u2014it makes them hide their intent.",
+  "ingested_at": "2025-11-21 05:43:48.527179"
+}

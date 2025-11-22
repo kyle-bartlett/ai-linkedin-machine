@@ -1,0 +1,1 @@
+That sounds exciting! The upgrade to GPT-5.1 with warmer, more capable models and enhanced customization options for tone and style will likely make interactions feel even more natural and tailored. If you have any specific questions about the new features or want tips on how to customize ChatGPT to better suit your needs, feel free to ask!

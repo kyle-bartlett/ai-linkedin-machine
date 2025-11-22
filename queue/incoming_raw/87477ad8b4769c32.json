@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Aligning language models to follow instructions",
+  "url": "https://openai.com/index/instruction-following",
+  "published": "Thu, 27 Jan 2022 08:00:00 GMT",
+  "summary_raw": "We\u2019ve trained language models that are much better at following user intentions than GPT-3 while also making them more truthful and less toxic, using techniques developed through our alignment research. These\u00a0InstructGPT\u00a0models, which are trained with humans in the loop, are now deployed as the default language models on our\u00a0API.",
+  "ingested_at": "2025-11-21 05:43:48.565537"
+}

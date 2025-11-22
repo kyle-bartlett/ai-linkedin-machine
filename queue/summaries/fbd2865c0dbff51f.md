@@ -1,0 +1,1 @@
+In October, GitHub experienced four incidents that led to degraded performance across its services. For a detailed overview, you can read the full report in the [GitHub Availability Report: October 2025](https://github.blog/news-insights/company-news/github-availability-report-october-2025/) post on The GitHub Blog.

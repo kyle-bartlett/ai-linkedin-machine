@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Efficient and Accurate Spatial Mixing of Machine Learned Interatomic Potentials for Materials Science",
+  "url": "https://arxiv.org/abs/2502.19081",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2502.19081v2 Announce Type: replace-cross \nAbstract: Machine-learned interatomic potentials can offer near first-principles accuracy but are computationally expensive, limiting their application to large-scale molecular dynamics simulations. Inspired by quantum mechanics/molecular mechanics methods we present ML-MIX, a CPU- and GPU-compatible LAMMPS package to accelerate simulations by spatially mixing interatomic potentials of different complexities allowing deployment of modern MLIPs even under restricted computational budgets. We demonstrate our method for ACE, UF3, SNAP and MACE potential architectures and demonstrate how linear 'cheap' potentials can be distilled from a given 'expensive' potential, allowing close matching in relevant regions of configuration space. The functionality of ML-MIX is demonstrated through tests on point defects in Si, Fe and W-He, in which speedups of up to 11x over ~ 8,000 atoms are demonstrated, without sacrificing accuracy. The scientific potential of ML-MIX is demonstrated via two case studies in W, measuring the mobility of b = 1/2 111 screw dislocations with ACE/ACE mixing and the implantation of He with MACE/SNAP mixing. The latter returns He reflection coefficients which (for the first time) match experimental observations up to an He incident energy of 80 eV - demonstrating the benefits of deploying state-of-the-art models on large, realistic systems.",
+  "ingested_at": "2025-11-21 05:43:50.700028"
+}

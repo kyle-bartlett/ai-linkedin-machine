@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Transparent Early ICU Mortality Prediction with Clinical Transformer and Per-Case Modality Attribution",
+  "url": "https://arxiv.org/abs/2511.15847",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15847v1 Announce Type: new \nAbstract: Early identification of intensive care patients at risk of in-hospital mortality enables timely intervention and efficient resource allocation. Despite high predictive performance, existing machine learning approaches lack transparency and robustness, limiting clinical adoption. We present a lightweight, transparent multimodal ensemble that fuses physiological time-series measurements with unstructured clinical notes from the first 48 hours of an ICU stay. A logistic regression model combines predictions from two modality-specific models: a bidirectional LSTM for vitals and a finetuned ClinicalModernBERT transformer for notes. This traceable architecture allows for multilevel interpretability: feature attributions within each modality and direct per-case modality attributions quantifying how vitals and notes influence each decision. On the MIMIC-III benchmark, our late-fusion ensemble improves discrimination over the best single model (AUPRC 0.565 vs. 0.526; AUROC 0.891 vs. 0.876) while maintaining well-calibrated predictions. The system remains robust through a calibrated fallback when a modality is missing. These results demonstrate competitive performance with reliable, auditable risk estimates and transparent, predictable operation, which together are crucial for clinical use.",
+  "ingested_at": "2025-11-21 05:43:50.678534"
+}

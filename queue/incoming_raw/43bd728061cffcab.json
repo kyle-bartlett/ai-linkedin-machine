@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Structural Disentanglement of Causal and Correlated Concepts",
+  "url": "https://arxiv.org/abs/2405.16219",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2405.16219v2 Announce Type: replace \nAbstract: Controllable data generation aims to synthesize data by specifying values for target concepts. Achieving this reliably requires modeling the underlying generative factors and their relationships. In real-world scenarios, these factors exhibit both causal and correlational dependencies, yet most existing methods model only part of this structure. We propose the Causal-Correlation Variational Autoencoder (C2VAE), a unified framework that jointly captures causal and correlational relationships among latent factors. C2VAE organizes the latent space into a structured graph, identifying a set of root causes that govern the generative processes. By optimizing only the root factors relevant to target concepts, the model enables efficient and faithful control. Experiments on synthetic and real-world datasets demonstrate that C2VAE improves generation quality, disentanglement, and intervention fidelity over existing baselines.",
+  "ingested_at": "2025-11-21 05:43:50.693005"
+}

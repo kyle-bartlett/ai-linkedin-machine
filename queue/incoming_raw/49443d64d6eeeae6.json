@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Beyond Tokens in Language Models: Interpreting Activations through Text Genre Chunks",
+  "url": "https://arxiv.org/abs/2511.16540",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16540v1 Announce Type: cross \nAbstract: Understanding Large Language Models (LLMs) is key to ensure their safe and beneficial deployment. This task is complicated by the difficulty of interpretability of LLM structures, and the inability to have all their outputs human-evaluated. In this paper, we present the first step towards a predictive framework, where the genre of a text used to prompt an LLM, is predicted based on its activations. Using Mistral-7B and two datasets, we show that genre can be extracted with F1-scores of up to 98% and 71% using scikit-learn classifiers. Across both datasets, results consistently outperform the control task, providing a proof of concept that text genres can be inferred from LLMs with shallow learning models.",
+  "ingested_at": "2025-11-21 05:43:50.690692"
+}

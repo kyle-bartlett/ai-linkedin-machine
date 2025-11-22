@@ -1,0 +1,8 @@
+{
+  "source": "HuggingFace Blog",
+  "title": "From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease",
+  "url": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+  "published": "Fri, 21 Oct 2022 00:00:00 GMT",
+  "summary_raw": "",
+  "ingested_at": "2025-11-21 05:43:50.132957"
+}

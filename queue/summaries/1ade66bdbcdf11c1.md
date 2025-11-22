@@ -1,0 +1,1 @@
+Adobe is offering $12 per share to acquire Semrush, which is nearly twice Semrush's closing price of $6.89 on the Tuesday before the deal announcement.

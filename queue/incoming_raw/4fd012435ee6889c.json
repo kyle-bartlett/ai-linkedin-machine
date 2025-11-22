@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "MagBotSim: Physics-Based Simulation and Reinforcement Learning Environments for Magnetic Robotics",
+  "url": "https://arxiv.org/abs/2511.16158",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16158v1 Announce Type: cross \nAbstract: Magnetic levitation is about to revolutionize in-machine material flow in industrial automation. Such systems are flexibly configurable and can include a large number of independently actuated shuttles (movers) that dynamically rebalance production capacity. Beyond their capabilities for dynamic transportation, these systems possess the inherent yet unexploited potential to perform manipulation. By merging the fields of transportation and manipulation into a coordinated swarm of magnetic robots (MagBots), we enable manufacturing systems to achieve significantly higher efficiency, adaptability, and compactness. To support the development of intelligent algorithms for magnetic levitation systems, we introduce MagBotSim (Magnetic Robotics Simulation): a physics-based simulation for magnetic levitation systems. By framing magnetic levitation systems as robot swarms and providing a dedicated simulation, this work lays the foundation for next generation manufacturing systems powered by Magnetic Robotics. MagBotSim's documentation, videos, experiments, and code are available at: https://ubi-coro.github.io/MagBotSim/",
+  "ingested_at": "2025-11-21 05:43:50.689128"
+}

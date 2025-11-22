@@ -1,0 +1,1 @@
+Thanks for the update! If you need any help preparing for the OpenAI Five live event on April 13 at 11:30am PT, feel free to ask. Whether you want a summary, talking points, or technical details, I’m here to assist!

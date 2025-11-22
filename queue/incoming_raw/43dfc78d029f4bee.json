@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "A Primer on Quantum Machine Learning",
+  "url": "https://arxiv.org/abs/2511.15969",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15969v1 Announce Type: cross \nAbstract: Quantum machine learning (QML) is a computational paradigm that seeks to apply quantum-mechanical resources to solve learning problems. As such, the goal of this framework is to leverage quantum processors to tackle optimization, supervised, unsupervised and reinforcement learning, and generative modeling-among other tasks-more efficiently than classical models. Here we offer a high level overview of QML, focusing on settings where the quantum device is the primary learning or data generating unit. We outline the field's tensions between practicality and guarantees, access models and speedups, and classical baselines and claimed quantum advantages-flagging where evidence is strong, where it is conditional or still lacking, and where open questions remain. By shedding light on these nuances and debates, we aim to provide a friendly map of the QML landscape so that the reader can judge when-and under what assumptions-quantum approaches may offer real benefits.",
+  "ingested_at": "2025-11-21 05:43:50.688220"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Interpretability as Alignment: Making Internal Understanding a Design Principle",
+  "url": "https://arxiv.org/abs/2509.08592",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2509.08592v2 Announce Type: replace \nAbstract: Frontier AI systems require governance mechanisms that can verify internal alignment, not just behavioral compliance. Private governance mechanisms audits, certification, insurance, and procurement are emerging to complement public regulation, but they require technical substrates that generate verifiable causal evidence about model behavior. This paper argues that mechanistic interpretability provides this substrate. We frame interpretability not as post-hoc explanation but as a design constraint embedding auditability, provenance, and bounded transparency within model architectures. Integrating causal abstraction theory and empirical benchmarks such as MIB and LoBOX, we outline how interpretability-first models can underpin private assurance pipelines and role-calibrated transparency frameworks. This reframing situates interpretability as infrastructure for private AI governance bridging the gap between technical reliability and institutional accountability.",
+  "ingested_at": "2025-11-21 05:43:50.695269"
+}

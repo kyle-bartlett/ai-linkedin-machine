@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Learning-Enhanced Observer for Linear Time-Invariant Systems with Parametric Uncertainty",
+  "url": "https://arxiv.org/abs/2511.16318",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16318v1 Announce Type: new \nAbstract: This work introduces a learning-enhanced observer (LEO) for linear time-invariant systems with uncertain dynamics. Rather than relying solely on nominal models, the proposed framework treats the system matrices as optimizable variables and refines them through gradient-based minimization of a steady-state output discrepancy loss. The resulting data-informed surrogate model enables the construction of an improved observer that effectively compensates for moderate parameter uncertainty while preserving the structure of classical designs. Extensive Monte Carlo studies across diverse system dimensions show systematic and statistically significant reductions, typically exceeding 15\\%, in normalized estimation error for both open-loop and Luenberger observers. These results demonstrate that modern learning mechanisms can serve as a powerful complement to traditional observer design, yielding more accurate and robust state estimation in uncertain systems. Codes are available at https://github.com/Hao-B-Shu/LTI_LEO.",
+  "ingested_at": "2025-11-21 05:43:50.683679"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Efficient Architectures for High Resolution Vision-Language Models",
+  "url": "https://arxiv.org/abs/2501.02584",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2501.02584v2 Announce Type: replace-cross \nAbstract: Vision-Language Models (VLMs) have recently experienced significant advancements. However, challenges persist in the accurate recognition of fine details within high resolution images, which limits performance in multiple tasks. This work introduces Pheye, a novel architecture that efficiently processes high-resolution images while training fewer parameters than similarly sized VLMs. Notably, Pheye achieves a high efficiency while maintaining strong performance, particularly in tasks that demand fine-grained image understanding and/or the handling of scene-text.",
+  "ingested_at": "2025-11-21 05:43:50.698964"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "GitHub Copilot Changelog",
+  "title": "Enhanced MCP OAuth support for GitHub Copilot in JetBrains, Eclipse, and Xcode",
+  "url": "https://github.blog/changelog/2025-11-18-enhanced-mcp-oauth-support-for-github-copilot-in-jetbrains-eclipse-and-xcode",
+  "published": "Tue, 18 Nov 2025 17:30:57 +0000",
+  "summary_raw": "<p>We&#8217;ve introduced enhanced authentication capabilities in GitHub Copilot plugins for JetBrains, Eclipse, and Xcode to support more third-party OAuth providers with a secure and flexible approach using Dynamic Client Registration&#8230;</p>\n<p>The post <a href=\"https://github.blog/changelog/2025-11-18-enhanced-mcp-oauth-support-for-github-copilot-in-jetbrains-eclipse-and-xcode\">Enhanced MCP OAuth support for GitHub Copilot in JetBrains, Eclipse, and Xcode</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+  "ingested_at": "2025-11-21 05:43:48.976839"
+}

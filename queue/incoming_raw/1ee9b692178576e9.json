@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Time dependent loss reweighting for flow matching and diffusion models is theoretically justified",
+  "url": "https://arxiv.org/abs/2511.16599",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16599v1 Announce Type: cross \nAbstract: This brief note clarifies that, in Generator Matching (which subsumes a large family of flow matching and diffusion models over continuous, manifold, and discrete spaces), both the Bregman divergence loss and the linear parameterization of the generator can depend on both the current state $X_t$ and the time $t$, and we show that the expectation over time in the loss can be taken with respect to a broad class of time distributions. We also show this for Edit Flows, which falls outside of Generator Matching. That the loss can depend on $t$ clarifies that time-dependent loss weighting schemes, often used in practice to stabilize training, are theoretically justified when the specific flow or diffusion scheme is a special case of Generator Matching (or Edit Flows). It also often simplifies the construction of $X_1$-predictor schemes, which are sometimes preferred for model-related reasons. We show examples that rely upon the dependence of linear parameterizations, and of the Bregman divergence loss, on $t$ and $X_t$.",
+  "ingested_at": "2025-11-21 05:43:50.691671"
+}

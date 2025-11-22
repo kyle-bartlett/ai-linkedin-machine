@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Measuring Goodhart\u2019s law",
+  "url": "https://openai.com/index/measuring-goodharts-law",
+  "published": "Wed, 13 Apr 2022 07:00:00 GMT",
+  "summary_raw": "Goodhart\u2019s law\u00a0famously says: \u201cWhen a measure becomes a target, it ceases to be a good measure.\u201d Although originally from economics, it\u2019s something we have to grapple with at OpenAI when figuring out how to optimize objectives that are difficult or costly to measure.",
+  "ingested_at": "2025-11-21 05:43:48.564816"
+}

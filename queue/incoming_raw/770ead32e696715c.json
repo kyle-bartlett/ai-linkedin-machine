@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Variational Quantum Integrated Sensing and Communication",
+  "url": "https://arxiv.org/abs/2511.16597",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16597v1 Announce Type: cross \nAbstract: The integration of sensing and communication functionalities within a common system is one of the main innovation drivers for next-generation networks. In this paper, we introduce a quantum integrated sensing and communication (QISAC) protocol that leverages entanglement in quantum carriers of information to enable both superdense coding and quantum sensing. The proposed approach adaptively optimizes encoding and quantum measurement via variational circuit learning, while employing classical machine learning-based decoders and estimators to process the measurement outcomes. Numerical results for qudit systems demonstrate that the proposed QISAC protocol can achieve a flexible trade-off between classical communication rate and accuracy of parameter estimation.",
+  "ingested_at": "2025-11-21 05:43:50.691555"
+}

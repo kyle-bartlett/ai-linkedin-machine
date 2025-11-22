@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Bipartite Graph Variational Auto-Encoder with Fair Latent Representation to Account for Sampling Bias in Ecological Networks",
+  "url": "https://arxiv.org/abs/2403.02011",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2403.02011v3 Announce Type: replace-cross \nAbstract: Citizen science monitoring programs can generate large amounts of valuable data, but are often affected by sampling bias. We focus on a citizen science initiative that records plant-pollinator interactions, with the goal of learning embeddings that summarize the observed interactions while accounting for such bias. In our approach, plant and pollinator species are embedded based on their probability of interaction. These embeddings are derived using an adaptation of variational graph autoencoders for bipartite graphs. To mitigate the influence of sampling bias, we incorporate the Hilbert-Schmidt Independence Criterion (HSIC) to ensure independence from continuous variables related to the sampling process. This allows us to integrate a fairness perspective, commonly explored in the social sciences, into the analysis of ecological data. We validate our method through a simulation study replicating key aspects of the sampling process and demonstrate its applicability and effectiveness using the Spipoll dataset.",
+  "ingested_at": "2025-11-21 05:43:50.698104"
+}

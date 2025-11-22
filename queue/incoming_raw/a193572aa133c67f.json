@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Implicit generation and generalization methods for energy-based models",
+  "url": "https://openai.com/index/energy-based-models",
+  "published": "Thu, 21 Mar 2019 07:00:00 GMT",
+  "summary_raw": "We\u2019ve made progress towards stable and scalable training of\u00a0energy-based models\u00a0(EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends more compute to continually refine its answers and doing so can generate samples competitive with\u00a0GANs\u00a0at low temperatures,\u00a0while also having mode coverage guarantees of\u00a0likelihood-based models. We hope these findings stimulate further research into this promising class of\u00a0models.",
+  "ingested_at": "2025-11-21 05:43:48.572617"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "A low-rank non-convex norm method for multiview graph clustering",
+  "url": "https://arxiv.org/abs/2312.11157",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2312.11157v2 Announce Type: replace \nAbstract: This study introduces a novel technique for multi-view clustering known as the \"Consensus Graph-Based Multi-View Clustering Method Using Low-Rank Non-Convex Norm\" (CGMVC-NC). Multi-view clustering is a challenging task in machine learning as it requires the integration of information from multiple data sources or views to cluster data points accurately. The suggested approach makes use of the structural characteristics of multi-view data tensors, introducing a non-convex tensor norm to identify correlations between these views. In contrast to conventional methods, this approach demonstrates superior clustering accuracy across several benchmark datasets. Despite the non-convex nature of the tensor norm used, the proposed method remains amenable to efficient optimization using existing algorithms. The approach provides a valuable tool for multi-view data analysis and has the potential to enhance our understanding of complex systems in various fields. Further research can explore the application of this method to other types of data and extend it to other machine-learning tasks.",
+  "ingested_at": "2025-11-21 05:43:50.692554"
+}

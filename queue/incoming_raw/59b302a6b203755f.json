@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "CardioLab: Laboratory Values Estimation from Electrocardiogram Features - An Exploratory Study",
+  "url": "https://arxiv.org/abs/2407.18629",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2407.18629v3 Announce Type: replace-cross \nAbstract: Laboratory value represents a cornerstone of medical diagnostics, but suffers from slow turnaround times, and high costs and only provides information about a single point in time. The continuous estimation of laboratory values from non-invasive data such as electrocardiogram (ECG) would therefore mark a significant frontier in healthcare monitoring. Despite its potential, this domain remains relatively underexplored. In this preliminary study, we used a publicly available dataset (MIMIC-IV-ECG) to investigate the feasibility of inferring laboratory values from ECG features and patient demographics using tree-based models (XGBoost). We define the prediction task as a binary problem of whether the lab value falls into low or high abnormalities. We assessed model performance with AUROC. Our findings demonstrate promising results in the estimation of laboratory values related to different organ systems. While further research and validation are warranted to fully assess the clinical utility and generalizability of the approach, our findings lay the groundwork for future investigations for laboratory value estimation using ECG data. Such advancements hold promise for revolutionizing predictive healthcare applications, offering faster, non-invasive, and more affordable means of patient monitoring.",
+  "ingested_at": "2025-11-21 05:43:50.698216"
+}

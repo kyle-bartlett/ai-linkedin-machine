@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Decentralized Bilevel Optimization: A Perspective from Transient Iteration Complexity",
+  "url": "https://arxiv.org/abs/2402.03167",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2402.03167v4 Announce Type: replace-cross \nAbstract: Stochastic bilevel optimization (SBO) is becoming increasingly essential in machine learning due to its versatility in handling nested structures. To address large-scale SBO, decentralized approaches have emerged as effective paradigms in which nodes communicate with immediate neighbors without a central server, thereby improving communication efficiency and enhancing algorithmic robustness. However, most decentralized SBO algorithms focus solely on asymptotic convergence rates, overlooking transient iteration complexity-the number of iterations required before asymptotic rates dominate, which results in limited understanding of the influence of network topology, data heterogeneity, and the nested bilevel algorithmic structures. To address this issue, this paper introduces D-SOBA, a Decentralized Stochastic One-loop Bilevel Algorithm framework. D-SOBA comprises two variants: D-SOBA-SO, which incorporates second-order Hessian and Jacobian matrices, and D-SOBA-FO, which relies entirely on first-order gradients. We provide a comprehensive non-asymptotic convergence analysis and establish the transient iteration complexity of D-SOBA. This provides the first theoretical understanding of how network topology, data heterogeneity, and nested bilevel structures influence decentralized SBO. Extensive experimental results demonstrate the efficiency and theoretical advantages of D-SOBA.",
+  "ingested_at": "2025-11-21 05:43:50.697999"
+}

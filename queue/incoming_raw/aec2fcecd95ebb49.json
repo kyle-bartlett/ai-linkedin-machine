@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "GPT-2: 6-month follow-up",
+  "url": "https://openai.com/index/gpt-2-6-month-follow-up",
+  "published": "Tue, 20 Aug 2019 07:00:00 GMT",
+  "summary_raw": "We\u2019re releasing the 774 million parameter GPT-2 language model after the release of our small\u00a0124M model\u00a0in February, staged release of our medium\u00a0355M model\u00a0in May, and subsequent research with partners and the AI community into the model\u2019s potential for misuse and societal benefit. We\u2019re also releasing an open-source legal agreement to make it easier for organizations to initiate model-sharing partnerships with each other, and are publishing a technical report about our experience in coordinating with the wider AI research community on publication\u00a0norms.",
+  "ingested_at": "2025-11-21 05:43:48.570914"
+}

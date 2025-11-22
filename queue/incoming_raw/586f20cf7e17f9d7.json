@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Reinforcement learning with prediction-based rewards",
+  "url": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
+  "published": "Wed, 31 Oct 2018 07:00:00 GMT",
+  "summary_raw": "We\u2019ve developed\u00a0Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on\u00a0Montezuma\u2019s Revenge.",
+  "ingested_at": "2025-11-21 05:43:48.574213"
+}

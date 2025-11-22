@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Learning to cooperate, compete, and communicate",
+  "url": "https://openai.com/index/learning-to-cooperate-compete-and-communicate",
+  "published": "Thu, 08 Jun 2017 07:00:00 GMT",
+  "summary_raw": "Multiagent environments where agents compete for resources are stepping stones on the path to AGI. Multiagent environments have two useful properties: first, there is a natural curriculum\u2014the difficulty of the environment is determined by the skill of your competitors (and if you\u2019re competing against clones of yourself, the environment exactly matches your skill level). Second, a multiagent environment has no stable equilibrium: no matter how smart an agent is, there\u2019s always pressure to get smarter. These environments have a very different feel from traditional environments, and it\u2019ll take a lot more research before we become good at them.",
+  "ingested_at": "2025-11-21 05:43:48.581936"
+}

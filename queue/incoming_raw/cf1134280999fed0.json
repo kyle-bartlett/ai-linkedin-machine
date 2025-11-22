@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "DALL\u00b7E 2 pre-training mitigations",
+  "url": "https://openai.com/index/dall-e-2-pre-training-mitigations",
+  "published": "Tue, 28 Jun 2022 07:00:00 GMT",
+  "summary_raw": "In order to share the magic of\u00a0DALL\u00b7E 2\u00a0with a broad audience, we needed to reduce the risks associated with powerful image generation models. To this end, we put various\u00a0guardrails\u00a0in place to prevent generated images from violating our\u00a0content policy.",
+  "ingested_at": "2025-11-21 05:43:48.562876"
+}

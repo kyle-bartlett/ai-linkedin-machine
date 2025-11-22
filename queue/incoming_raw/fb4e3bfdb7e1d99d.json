@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Learning the Inverse Ryu--Takayanagi Formula with Transformers",
+  "url": "https://arxiv.org/abs/2511.06387",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.06387v2 Announce Type: replace-cross \nAbstract: We study the inverse problem of holographic entanglement entropy in AdS$_3$ using a data-driven generative model. Training data consist of randomly generated geometries and their holographic entanglement entropies using the Ryu--Takayanagi formula. After training, the Transformer reconstructs the blackening function within our metric ansatz from previously unseen inputs. The Transformer achieves accurate reconstructions on smooth black hole geometries and extrapolates to horizonless backgrounds. We describe the architecture and data generation process, and we quantify accuracy on both $f(z)$ and the reconstructed $S(\\ell)$. Code and evaluation scripts are available at the provided repository.",
+  "ingested_at": "2025-11-21 05:43:50.702411"
+}

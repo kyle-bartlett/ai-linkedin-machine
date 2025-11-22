@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Descend or Rewind? Stochastic Gradient Descent Unlearning",
+  "url": "https://arxiv.org/abs/2511.15983",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15983v1 Announce Type: new \nAbstract: Machine unlearning algorithms aim to remove the impact of selected training data from a model without the computational expenses of retraining from scratch. Two such algorithms are ``Descent-to-Delete\" (D2D) and ``Rewind-to-Delete\" (R2D), full-batch gradient descent algorithms that are easy to implement and satisfy provable unlearning guarantees. In particular, the stochastic version of D2D is widely implemented as the ``finetuning\" unlearning baseline, despite lacking theoretical backing on nonconvex functions. In this work, we prove $(\\epsilon, \\delta)$ certified unlearning guarantees for stochastic R2D and D2D for strongly convex, convex, and nonconvex loss functions, by analyzing unlearning through the lens of disturbed or biased gradient systems, which may be contracting, semi-contracting, or expansive respectively. Our argument relies on optimally coupling the random behavior of the unlearning and retraining trajectories, resulting in a probabilistic sensitivity bound that can be combined with a novel relaxed Gaussian mechanism to achieve $(\\epsilon, \\delta)$ unlearning. We determine that D2D can yield tighter guarantees for strongly convex functions compared to R2D by relying on contraction to a unique global minimum. However, unlike D2D, R2D can achieve unlearning in the convex and nonconvex setting because it draws the unlearned model closer to the retrained model by reversing the accumulated disturbances.",
+  "ingested_at": "2025-11-21 05:43:50.679703"
+}

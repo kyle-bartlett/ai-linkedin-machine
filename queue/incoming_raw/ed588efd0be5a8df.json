@@ -1,0 +1,8 @@
+{
+  "source": "GitHub Copilot Changelog",
+  "title": "GitHub Actions cache size can now exceed 10 GB per repository",
+  "url": "https://github.blog/changelog/2025-11-20-github-actions-cache-size-can-now-exceed-10-gb-per-repository",
+  "published": "Thu, 20 Nov 2025 21:01:36 +0000",
+  "summary_raw": "<p>GitHub Actions cache size can now exceed 10 GB per repository You can now store more build dependencies between workflow runs with expanded GitHub Actions cache storage. Repositories can go&#8230;</p>\n<p>The post <a href=\"https://github.blog/changelog/2025-11-20-github-actions-cache-size-can-now-exceed-10-gb-per-repository\">GitHub Actions cache size can now exceed 10 GB per repository</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+  "ingested_at": "2025-11-21 05:43:48.975936"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Scaling Kubernetes to 7,500 nodes",
+  "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+  "published": "Mon, 25 Jan 2021 08:00:00 GMT",
+  "summary_raw": "We\u2019ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like\u00a0GPT-3,\u00a0CLIP, and\u00a0DALL\u00b7E, but also for rapid small-scale iterative research such as\u00a0Scaling Laws for Neural Language Models.",
+  "ingested_at": "2025-11-21 05:43:48.567815"
+}

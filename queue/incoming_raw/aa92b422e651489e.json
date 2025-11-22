@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Real-Time Inference for Distributed Multimodal Systems under Communication Delay Uncertainty",
+  "url": "https://arxiv.org/abs/2511.16225",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16225v1 Announce Type: new \nAbstract: Connected cyber-physical systems perform inference based on real-time inputs from multiple data streams. Uncertain communication delays across data streams challenge the temporal flow of the inference process. State-of-the-art (SotA) non-blocking inference methods rely on a reference-modality paradigm, requiring one modality input to be fully received before processing, while depending on costly offline profiling. We propose a novel, neuro-inspired non-blocking inference paradigm that primarily employs adaptive temporal windows of integration (TWIs) to dynamically adjust to stochastic delay patterns across heterogeneous streams while relaxing the reference-modality requirement. Our communication-delay-aware framework achieves robust real-time inference with finer-grained control over the accuracy-latency tradeoff. Experiments on the audio-visual event localization (AVEL) task demonstrate superior adaptability to network dynamics compared to SotA approaches.",
+  "ingested_at": "2025-11-21 05:43:50.682907"
+}

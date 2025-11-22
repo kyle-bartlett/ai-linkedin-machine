@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Estimation of Cardiac and Non-cardiac Diagnosis from Electrocardiogram Features",
+  "url": "https://arxiv.org/abs/2408.17329",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2408.17329v2 Announce Type: replace-cross \nAbstract: Ensuring timely and accurate diagnosis of medical conditions is paramount for effective patient care. Electrocardiogram (ECG) signals are fundamental for evaluating a patient's cardiac health and are readily available. Despite this, little attention has been given to the remarkable potential of ECG data in detecting non-cardiac conditions. In our study, we used publicly available datasets (MIMIC-IV-ECG-ICD and ECG-VIEW II) to investigate the feasibility of inferring general diagnostic conditions from ECG features. To this end, we trained a tree-based model (XGBoost) based on ECG features and basic demographic features to estimate a wide range of diagnoses, encompassing both cardiac and non-cardiac conditions. Our results demonstrate the reliability of estimating 23 cardiac as well as 21 non-cardiac conditions above 0.7 AUROC in a statistically significant manner across a wide range of physiological categories. Our findings underscore the predictive potential of ECG data in identifying well-known cardiac conditions. However, even more striking, this research represents a pioneering effort in systematically expanding the scope of ECG-based diagnosis to conditions not traditionally associated with the cardiac system.",
+  "ingested_at": "2025-11-21 05:43:50.698427"
+}

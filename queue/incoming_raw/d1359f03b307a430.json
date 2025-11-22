@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Learning to reason with LLMs",
+  "url": "https://openai.com/index/learning-to-reason-with-llms",
+  "published": "Thu, 12 Sep 2024 10:02:00 GMT",
+  "summary_raw": "We are introducing OpenAI o1, a new large language model trained with reinforcement learning to perform complex reasoning. o1 thinks before it answers\u2014it can produce a long internal chain of thought before responding to the user.",
+  "ingested_at": "2025-11-21 05:43:48.539996"
+}

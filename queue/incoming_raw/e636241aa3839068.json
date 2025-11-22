@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Dota 2",
+  "url": "https://openai.com/index/dota-2",
+  "published": "Fri, 11 Aug 2017 07:00:00 GMT",
+  "summary_raw": "We\u2019ve created a bot which beats the world\u2019s top professionals at 1v1 matches of Dota 2 under standard tournament rules. The bot learned the game from scratch by self-play, and does not use imitation learning or tree search. This is a step towards building AI systems which accomplish well-defined goals in messy, complicated situations involving real humans.",
+  "ingested_at": "2025-11-21 05:43:48.580996"
+}

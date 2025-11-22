@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Graph-Memoized Reasoning: Foundations Structured Workflow Reuse in Intelligent Systems",
+  "url": "https://arxiv.org/abs/2511.15715",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15715v1 Announce Type: cross \nAbstract: Modern large language model-based reasoning systems frequently recompute similar reasoning steps across tasks, wasting computational resources, inflating inference latency, and limiting reproducibility. These inefficiencies underscore the need for persistent reasoning mechanisms that can recall and reuse prior computational traces.\n  We introduce Graph-Memoized Reasoning, a formal framework for representing, storing, and reusing reasoning workflows as graph-structured memory. By encoding past decision graphs and retrieving them through structural and semantic similarity, our approach enables compositional reuse of subgraphs across new reasoning tasks.\n  We formulate an optimization objective that minimizes total reasoning cost regularized by inconsistency between stored and generated workflows, providing a theoretical foundation for efficiency-consistency trade-offs in intelligent systems. We outline a conceptual evaluation protocol aligned with the proposed optimization objective.\n  This framework establishes the groundwork for interpretable, cost-efficient, and self-improving reasoning architectures, offering a step toward persistent memory in large-scale agentic systems.",
+  "ingested_at": "2025-11-21 05:43:50.687194"
+}

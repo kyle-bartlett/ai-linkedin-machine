@@ -1,0 +1,1 @@
+Got it! You’re replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3, but the API version will still be based on 4o. If you need help with migration steps, integration details, or anything related to working with the new model or managing the API version, feel free to ask!

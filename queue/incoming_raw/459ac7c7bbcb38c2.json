@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "SURFing to the Fundamental Limit of Jet Tagging",
+  "url": "https://arxiv.org/abs/2511.15779",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15779v1 Announce Type: cross \nAbstract: Beyond the practical goal of improving search and measurement sensitivity through better jet tagging algorithms, there is a deeper question: what are their upper performance limits? Generative surrogate models with learned likelihood functions offer a new approach to this problem, provided the surrogate correctly captures the underlying data distribution. In this work, we introduce the SUrrogate ReFerence (SURF) method, a new approach to validating generative models. This framework enables exact Neyman-Pearson tests by training the target model on samples from another tractable surrogate, which is itself trained on real data. We argue that the EPiC-FM generative model is a valid surrogate reference for JetClass jets and apply SURF to show that modern jet taggers may already be operating close to the true statistical limit. By contrast, we find that autoregressive GPT models unphysically exaggerate top vs. QCD separation power encoded in the surrogate reference, implying that they are giving a misleading picture of the fundamental limit.",
+  "ingested_at": "2025-11-21 05:43:50.687548"
+}

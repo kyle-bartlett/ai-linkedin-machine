@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Fairness in Multi-modal Medical Diagnosis with Demonstration Selection",
+  "url": "https://arxiv.org/abs/2511.15986",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15986v1 Announce Type: cross \nAbstract: Multimodal large language models (MLLMs) have shown strong potential for medical image reasoning, yet fairness across demographic groups remains a major concern. Existing debiasing methods often rely on large labeled datasets or fine-tuning, which are impractical for foundation-scale models. We explore In-Context Learning (ICL) as a lightweight, tuning-free alternative for improving fairness. Through systematic analysis, we find that conventional demonstration selection (DS) strategies fail to ensure fairness due to demographic imbalance in selected exemplars. To address this, we propose Fairness-Aware Demonstration Selection (FADS), which builds demographically balanced and semantically relevant demonstrations via clustering-based sampling. Experiments on multiple medical imaging benchmarks show that FADS consistently reduces gender-, race-, and ethnicity-related disparities while maintaining strong accuracy, offering an efficient and scalable path toward fair medical image reasoning. These results highlight the potential of fairness-aware in-context learning as a scalable and data-efficient solution for equitable medical image reasoning.",
+  "ingested_at": "2025-11-21 05:43:50.688452"
+}

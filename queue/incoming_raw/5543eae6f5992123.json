@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Neural MMO: A massively multiagent game environment",
+  "url": "https://openai.com/index/neural-mmo",
+  "published": "Mon, 04 Mar 2019 08:00:00 GMT",
+  "summary_raw": "We\u2019re releasing a Neural\u00a0MMO, a massively multiagent game environment for reinforcement learning agents. Our platform supports a large, variable number of agents within a persistent and open-ended task. The inclusion of many agents and species leads to better exploration, divergent niche formation, and greater overall\u00a0competence.",
+  "ingested_at": "2025-11-21 05:43:48.573056"
+}

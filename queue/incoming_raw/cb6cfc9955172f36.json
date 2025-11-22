@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Non-Asymptotic Analysis of Data Augmentation for Precision Matrix Estimation",
+  "url": "https://arxiv.org/abs/2510.02119",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2510.02119v2 Announce Type: replace-cross \nAbstract: This paper addresses the problem of inverse covariance (also known as precision matrix) estimation in high-dimensional settings. Specifically, we focus on two classes of estimators: linear shrinkage estimators with a target proportional to the identity matrix, and estimators derived from data augmentation (DA). Here, DA refers to the common practice of enriching a dataset with artificial samples--typically generated via a generative model or through random transformations of the original data--prior to model fitting. For both classes of estimators, we derive estimators and provide concentration bounds for their quadratic error. This allows for both method comparison and hyperparameter tuning, such as selecting the optimal proportion of artificial samples. On the technical side, our analysis relies on tools from random matrix theory. We introduce a novel deterministic equivalent for generalized resolvent matrices, accommodating dependent samples with specific structure. We support our theoretical results with numerical experiments.",
+  "ingested_at": "2025-11-21 05:43:50.702200"
+}

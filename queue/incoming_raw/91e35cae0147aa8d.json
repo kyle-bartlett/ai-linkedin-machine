@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "LEARNER: Contrastive Pretraining for Learning Fine-Grained Patient Progression from Coarse Inter-Patient Labels",
+  "url": "https://arxiv.org/abs/2411.01144",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2411.01144v2 Announce Type: replace-cross \nAbstract: Predicting whether a treatment leads to meaningful improvement is a central challenge in personalized medicine, particularly when disease progression manifests as subtle visual changes over time. While data-driven deep learning (DL) offers a promising route to automate such predictions, acquiring large-scale longitudinal data for each individual patient remains impractical. To address this limitation, we explore whether inter-patient variability can serve as a proxy for learning intra-patient progression. We propose LEARNER, a contrastive pretraining framework that leverages coarsely labeled inter-patient data to learn fine-grained, patient-specific representations. Using lung ultrasound (LUS) and brain MRI datasets, we demonstrate that contrastive objectives trained on coarse inter-patient differences enable models to capture subtle intra-patient changes associated with treatment response. Across both modalities, our approach improves downstream classification accuracy and F1-score compared to standard MSE pretraining, highlighting the potential of inter-patient contrastive learning for individualized outcome prediction.",
+  "ingested_at": "2025-11-21 05:43:50.698753"
+}

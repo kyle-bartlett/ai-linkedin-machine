@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them",
+  "url": "https://arxiv.org/abs/2503.16401",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2503.16401v2 Announce Type: replace \nAbstract: Large language models (LLMs) have been able to perform various forms of reasoning tasks in a wide range of scenarios, but are they truly engaging in task abstraction and rule-based reasoning beyond mere memorization? To answer this question, we propose a novel experimental approach, Misleading Fine-Tuning (MisFT), to examine whether LLMs perform abstract reasoning by altering their original understanding of fundamental rules. In particular, by constructing datasets with math expressions or logical formulas that contradict correct principles, we fine-tune the model to learn those contradictory rules and assess its generalization ability on unseen test domains. Through a series of experiments, we find that current LLMs are capable of applying contradictory rules to solve practical math word problems and natural language reasoning tasks, implying the presence of an internal mechanism in LLMs that abstracts before reasoning.",
+  "ingested_at": "2025-11-21 05:43:50.694031"
+}

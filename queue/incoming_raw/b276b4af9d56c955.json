@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Weak-to-strong generalization",
+  "url": "https://openai.com/index/weak-to-strong-generalization",
+  "published": "Thu, 14 Dec 2023 00:00:00 GMT",
+  "summary_raw": "We present a new research direction for superalignment, together with promising initial results: can we leverage the generalization properties of deep learning to control strong models with weak supervisors?",
+  "ingested_at": "2025-11-21 05:43:48.552991"
+}

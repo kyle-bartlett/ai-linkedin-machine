@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Loss Functions Robust to the Presence of Label Errors",
+  "url": "https://arxiv.org/abs/2511.16512",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16512v1 Announce Type: new \nAbstract: Methods for detecting label errors in training data require models that are robust to label errors (i.e., not fit to erroneously labelled data points). However, acquiring such models often involves training on corrupted data, which presents a challenge. Adjustments to the loss function present an opportunity for improvement. Motivated by Focal Loss (which emphasizes difficult-to-classify samples), two novel, yet simple, loss functions are proposed that de-weight or ignore these difficult samples (i.e., those likely to have label errors). Results on artificially corrupted data show promise, such that F1 scores for detecting errors are improved from the baselines of conventional categorical Cross Entropy and Focal Loss.",
+  "ingested_at": "2025-11-21 05:43:50.685341"
+}

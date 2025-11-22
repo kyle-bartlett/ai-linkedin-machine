@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "discretize_distributions: Efficient Quantization of Gaussian Mixtures with Guarantees in Wasserstein Distance",
+  "url": "https://arxiv.org/abs/2511.15854",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15854v1 Announce Type: new \nAbstract: We present discretize_distributions, a Python package that efficiently constructs discrete approximations of Gaussian mixture distributions and provides guarantees on the approximation error in Wasserstein distance. The package implements state-of-the-art quantization methods for Gaussian mixture models and extends them to improve scalability. It further integrates complementary quantization strategies such as sigma-point methods and provides a modular interface that supports custom schemes and integration into control and verification pipelines for cyber-physical systems. We benchmark the package on various examples, including high-dimensional, large, and degenerate Gaussian mixtures, and demonstrate that discretize_distributions produces accurate approximations at low computational cost.",
+  "ingested_at": "2025-11-21 05:43:50.678651"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "WebGPT: Improving the factual accuracy of language models through web browsing",
+  "url": "https://openai.com/index/webgpt",
+  "published": "Thu, 16 Dec 2021 08:00:00 GMT",
+  "summary_raw": "We\u2019ve fine-tuned GPT-3 to more accurately answer open-ended questions using a text-based web browser.",
+  "ingested_at": "2025-11-21 05:43:48.566004"
+}

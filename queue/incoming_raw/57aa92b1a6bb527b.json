@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "HGCN2SP: Hierarchical Graph Convolutional Network for Two-Stage Stochastic Programming",
+  "url": "https://arxiv.org/abs/2511.16027",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16027v1 Announce Type: new \nAbstract: Two-stage Stochastic Programming (2SP) is a standard framework for modeling decision-making problems under uncertainty. While numerous methods exist, solving such problems with many scenarios remains challenging. Selecting representative scenarios is a practical method for accelerating solutions. However, current approaches typically rely on clustering or Monte Carlo sampling, failing to integrate scenario information deeply and overlooking the significant impact of the scenario order on solving time. To address these issues, we develop HGCN2SP, a novel model with a hierarchical graph designed for 2SP problems, encoding each scenario and modeling their relationships hierarchically. The model is trained in a reinforcement learning paradigm to utilize the feedback of the solver. The policy network is equipped with a hierarchical graph convolutional network for feature encoding and an attention-based decoder for scenario selection in proper order. Evaluation of two classic 2SP problems demonstrates that HGCN2SP provides high-quality decisions in a short computational time. Furthermore, HGCN2SP exhibits remarkable generalization capabilities in handling large-scale instances, even with a substantial number of variables or scenarios that were unseen during the training phase.",
+  "ingested_at": "2025-11-21 05:43:50.680181"
+}

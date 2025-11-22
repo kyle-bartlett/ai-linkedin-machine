@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Introducing text and code embeddings",
+  "url": "https://openai.com/index/introducing-text-and-code-embeddings",
+  "published": "Tue, 25 Jan 2022 08:00:00 GMT",
+  "summary_raw": "We are introducing embeddings, a new endpoint in the OpenAI API that makes it easy to perform natural language and code tasks like semantic search, clustering, topic modeling, and classification.",
+  "ingested_at": "2025-11-21 05:43:48.565663"
+}

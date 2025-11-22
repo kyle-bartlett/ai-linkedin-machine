@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Breaking the Bottleneck with DiffuApriel: High-Throughput Diffusion LMs with Mamba Backbone",
+  "url": "https://arxiv.org/abs/2511.15927",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.15927v1 Announce Type: new \nAbstract: Diffusion-based language models have recently emerged as a promising alternative to autoregressive generation, yet their reliance on Transformer backbones limits inference efficiency due to quadratic attention and KV-cache overhead. In this work, we introduce DiffuApriel, a masked diffusion language model built on a bidirectional Mamba backbone that combines the diffusion objective with linear-time sequence modeling. DiffuApriel matches the performance of Transformer-based diffusion models while achieving up to 4.4x higher inference throughput for long sequences with a 1.3B model. We further propose DiffuApriel-H, a hybrid variant that interleaves attention and mamba layers, offering up to 2.6x throughput improvement with balanced global and local context modeling. Our results demonstrate that bidirectional state-space architectures serve as strong denoisers in masked diffusion LMs, providing a practical and scalable foundation for faster, memory-efficient text generation.",
+  "ingested_at": "2025-11-21 05:43:50.679236"
+}

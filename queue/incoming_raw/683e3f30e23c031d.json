@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Spectral Identifiability for Interpretable Probe Geometry",
+  "url": "https://arxiv.org/abs/2511.16288",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16288v1 Announce Type: cross \nAbstract: Linear probes are widely used to interpret and evaluate neural representations, yet their reliability remains unclear, as probes may appear accurate in some regimes but collapse unpredictably in others. We uncover a spectral mechanism behind this phenomenon and formalize it as the Spectral Identifiability Principle (SIP), a verifiable Fisher-inspired condition for probe stability. When the eigengap separating task-relevant directions is larger than the Fisher estimation error, the estimated subspace concentrates and accuracy remains consistent, whereas closing this gap induces instability in a phase-transition manner. Our analysis connects eigengap geometry, sample size, and misclassification risk through finite-sample reasoning, providing an interpretable diagnostic rather than a loose generalization bound. Controlled synthetic studies, where Fisher quantities are computed exactly, confirm these predictions and show how spectral inspection can anticipate unreliable probes before they distort downstream evaluation.",
+  "ingested_at": "2025-11-21 05:43:50.689464"
+}

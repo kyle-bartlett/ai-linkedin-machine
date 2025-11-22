@@ -1,0 +1,1 @@
+Could you please clarify what you mean by "Introducing canvas"? Are you referring to the HTML5 `<canvas>` element, a canvas in a particular software or framework, or something else? Providing more details will help me assist you better.

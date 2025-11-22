@@ -1,0 +1,1 @@
+That sounds exciting! How did the Spinning Up Workshop go? What topics did you cover, and what was the overall experience like for the participants?

@@ -1,0 +1,8 @@
+{
+  "source": "HuggingFace Blog",
+  "title": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
+  "url": "https://huggingface.co/blog/trl-peft",
+  "published": "Thu, 09 Mar 2023 00:00:00 GMT",
+  "summary_raw": "",
+  "ingested_at": "2025-11-21 05:43:50.125885"
+}

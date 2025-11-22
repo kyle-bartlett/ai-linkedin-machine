@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Quantum-machine-assisted Drug Discovery",
+  "url": "https://arxiv.org/abs/2408.13479",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2408.13479v5 Announce Type: replace-cross \nAbstract: Drug discovery is lengthy and expensive, with traditional computer-aided design facing limits. This paper examines integrating quantum computing across the drug development cycle to accelerate and enhance workflows and rigorous decision-making. It highlights quantum approaches for molecular simulation, drug-target interaction prediction, and optimizing clinical trials. Leveraging quantum capabilities could accelerate timelines and costs for bringing therapies to market, improving efficiency and ultimately benefiting public health.",
+  "ingested_at": "2025-11-21 05:43:50.698322"
+}

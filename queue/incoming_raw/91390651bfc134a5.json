@@ -1,0 +1,8 @@
+{
+  "source": "GitHub Copilot Changelog",
+  "title": "Linter integration with Copilot code review now in public preview",
+  "url": "https://github.blog/changelog/2025-11-20-linter-integration-with-copilot-code-review-now-in-public-preview",
+  "published": "Thu, 20 Nov 2025 19:29:29 +0000",
+  "summary_raw": "<p>Copilot code review now surfaces actionable feedback from linters, so the small stuff is never missed&#8212;and you can customize which linters are used via repository rulesets. This feature is available&#8230;</p>\n<p>The post <a href=\"https://github.blog/changelog/2025-11-20-linter-integration-with-copilot-code-review-now-in-public-preview\">Linter integration with Copilot code review now in public preview</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+  "ingested_at": "2025-11-21 05:43:48.976102"
+}

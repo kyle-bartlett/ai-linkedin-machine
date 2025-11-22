@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Modelling Global Trade with Optimal Transport",
+  "url": "https://arxiv.org/abs/2409.06554",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2409.06554v3 Announce Type: replace-cross \nAbstract: Global trade is shaped by a complex mix of factors beyond supply and demand, including tangible variables like transport costs and tariffs, as well as less quantifiable influences such as political and economic relations. Traditionally, economists model trade using gravity models, which rely on explicit covariates that might struggle to capture these subtler drivers of trade. In this work, we employ optimal transport and a deep neural network to learn a time-dependent cost function from data, without imposing a specific functional form. This approach consistently outperforms traditional gravity models in accuracy and has similar performance to three-way gravity models, while providing natural uncertainty quantification. Applying our framework to global food and agricultural trade, we show that the Global South suffered disproportionately from the war in Ukraine's impact on wheat markets. We also analyse the effects of free-trade agreements and trade disputes with China, as well as Brexit's impact on British trade with Europe, uncovering hidden patterns that trade volumes alone cannot reveal.",
+  "ingested_at": "2025-11-21 05:43:50.698537"
+}

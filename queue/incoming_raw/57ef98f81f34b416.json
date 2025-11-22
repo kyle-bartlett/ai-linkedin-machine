@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Nonparametric estimation of conditional probability distributions using a generative approach based on conditional push-forward neural networks",
+  "url": "https://arxiv.org/abs/2511.14455",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.14455v2 Announce Type: replace \nAbstract: We introduce conditional push-forward neural networks (CPFN), a generative framework for conditional distribution estimation. Instead of directly modeling the conditional density $f_{Y|X}$, CPFN learns a stochastic map $\\varphi=\\varphi(x,u)$ such that $\\varphi(x,U)$ and $Y|X=x$ follow approximately the same law, with $U$ a suitable random vector of pre-defined latent variables. This enables efficient conditional sampling and straightforward estimation of conditional statistics through Monte Carlo methods. The model is trained via an objective function derived from a Kullback-Leibler formulation, without requiring invertibility or adversarial training. We establish a near-asymptotic consistency result and demonstrate experimentally that CPFN can achieve performance competitive with, or even superior to, state-of-the-art methods, including kernel estimators, tree-based algorithms, and popular deep learning techniques, all while remaining lightweight and easy to train.",
+  "ingested_at": "2025-11-21 05:43:50.697358"
+}

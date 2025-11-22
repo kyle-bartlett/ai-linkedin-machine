@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Finding GPT-4\u2019s mistakes with GPT-4",
+  "url": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4",
+  "published": "Thu, 27 Jun 2024 10:00:00 GMT",
+  "summary_raw": "CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF",
+  "ingested_at": "2025-11-21 05:43:48.543698"
+}

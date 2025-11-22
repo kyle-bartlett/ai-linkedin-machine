@@ -1,0 +1,8 @@
+{
+  "source": "Arxiv Machine Learning",
+  "title": "Mitigating Estimation Bias with Representation Learning in TD Error-Driven Regularization",
+  "url": "https://arxiv.org/abs/2511.16090",
+  "published": "Fri, 21 Nov 2025 00:00:00 -0500",
+  "summary_raw": "arXiv:2511.16090v1 Announce Type: new \nAbstract: Deterministic policy gradient algorithms for continuous control suffer from value estimation biases that degrade performance. While double critics reduce such biases, the exploration potential of double actors remains underexplored. Building on temporal-difference error-driven regularization (TDDR), a double actor-critic framework, this work introduces enhanced methods to achieve flexible bias control and stronger representation learning. We propose three convex combination strategies, symmetric and asymmetric, that balance pessimistic estimates to mitigate overestimation and optimistic exploration via double actors to alleviate underestimation. A single hyperparameter governs this mechanism, enabling tunable control across the bias spectrum. To further improve performance, we integrate augmented state and action representations into the actor and critic networks. Extensive experiments show that our approach consistently outperforms benchmarks, demonstrating the value of tunable bias and revealing that both overestimation and underestimation can be exploited differently depending on the environment.",
+  "ingested_at": "2025-11-21 05:43:50.681145"
+}

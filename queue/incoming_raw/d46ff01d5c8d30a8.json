@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Image GPT",
+  "url": "https://openai.com/index/image-gpt",
+  "published": "Wed, 17 Jun 2020 07:00:00 GMT",
+  "summary_raw": "We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image\u00a0completions\u00a0and\u00a0samples. By establishing a correlation between sample quality and image classification accuracy, we show that our best generative model also contains features competitive with top convolutional nets in the unsupervised\u00a0setting.",
+  "ingested_at": "2025-11-21 05:43:48.568763"
+}

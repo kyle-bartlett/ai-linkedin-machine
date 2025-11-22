@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Generalizing from simulation",
+  "url": "https://openai.com/index/generalizing-from-simulation",
+  "published": "Thu, 19 Oct 2017 07:00:00 GMT",
+  "summary_raw": "Our latest robotics techniques allow robot controllers, trained entirely in simulation and deployed on physical robots, to react to unplanned changes in the environment as they solve simple tasks. That is, we\u2019ve used these techniques to build closed-loop systems rather than open-loop ones as before.",
+  "ingested_at": "2025-11-21 05:43:48.579484"
+}

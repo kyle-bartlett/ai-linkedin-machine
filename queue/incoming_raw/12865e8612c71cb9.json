@@ -1,0 +1,8 @@
+{
+  "source": "OpenAI Blog",
+  "title": "Introducing gpt-oss",
+  "url": "https://openai.com/index/introducing-gpt-oss",
+  "published": "Tue, 05 Aug 2025 00:00:00 GMT",
+  "summary_raw": "We\u2019re releasing gpt-oss-120b and gpt-oss-20b\u2014two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
+  "ingested_at": "2025-11-21 05:43:48.516497"
+}
