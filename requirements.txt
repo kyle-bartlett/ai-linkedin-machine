@@ -9,8 +9,11 @@ python-dateutil>=2.8.0
 # OpenAI API for summarization
 openai>=1.0.0
 
-# Image Optimization (new)
+# Image Optimization
 Pillow>=10.0.0
+
+# Optional: Enhanced drag-and-drop support for GUI
+# tkinterdnd2>=0.3.0  # pip install tkinterdnd2 (optional, for drag-drop)
 
 # Optional: Enhanced image processing
 # opencv-python>=4.8.0  # For advanced face detection in smart crop (optional)
