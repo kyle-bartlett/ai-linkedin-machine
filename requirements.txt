@@ -12,7 +12,10 @@ openai>=1.0.0
 # Image Optimization
 Pillow>=10.0.0
 
-# Optional: Enhanced drag-and-drop support for GUI
+# Web App (for mobile access)
+streamlit>=1.28.0
+
+# Optional: Enhanced drag-and-drop support for desktop GUI
 # tkinterdnd2>=0.3.0  # pip install tkinterdnd2 (optional, for drag-drop)
 
 # Optional: Enhanced image processing
