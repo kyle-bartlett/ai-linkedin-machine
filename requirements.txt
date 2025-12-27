@@ -1,0 +1,16 @@
+# AI LinkedIn Machine - Dependencies
+
+# RSS Feed Ingestion
+feedparser>=6.0.0
+
+# Date parsing
+python-dateutil>=2.8.0
+
+# OpenAI API for summarization
+openai>=1.0.0
+
+# Image Optimization (new)
+Pillow>=10.0.0
+
+# Optional: Enhanced image processing
+# opencv-python>=4.8.0  # For advanced face detection in smart crop (optional)
